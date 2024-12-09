@@ -1,4 +1,4 @@
-# Automating powershell-empire interaction cia RESTful APIs
+# Automating powershell-empire interaction via RESTful APIs
 This repository contains a concise code example for automating access to the PowerShell Empire C2 framework via its REST API. Using the API, you can write Python scripts to perform various tasks such as:
 - Creating listeners and agents.
 - Executing arbitrary shell commands on all or specific agents.
